@@ -3,4 +3,5 @@
 with open("input.txt",'r') as fp:
   lines = fp.readlines()
   
+print ("hello")  
 print(lines)  
